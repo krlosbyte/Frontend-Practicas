@@ -1,1 +1,3 @@
-# Frontend-Practicas
+# FrontEnd-Practicas
+
+Prácticas del curso LaunchX-InnovaccionVirtual 
