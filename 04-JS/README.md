@@ -1,2 +1,2 @@
 
-Practica JavaScript
+Práctica JavaScript
